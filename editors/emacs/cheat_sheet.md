@@ -79,7 +79,6 @@ Much of this is a wrapper over [`sbt-mode`](https://github.com/hvesalai/sbt-mode
 
 | Shortcut    | Description |
 |-------------|-------------|
-| `C-c C-d d` | Start the debugger |
 | `C-c C-d b` | Set a breakpoint at the current line |
 | `C-c C-d u` | Remove the breakpoint at the current line |
 | `C-c C-d a` | Remove all breakpoints |
